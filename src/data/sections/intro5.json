@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Premium",
+      "second": "Financial Solutions"
+    },
+    "content": "We craft bespoke strategies with precision and innovation to redefine your business growth.",
+    "image": "/img/arch/slid/o-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Change Your, Now",
+    "content": "We transform challenges into opportunities with tools that inspire progress and success.",
+    "image": "/img/arch/slid/o-3.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Elevating",
+      "second": "Possibilities"
+    },
+    "content": "Our expertise drives clarity, efficiency, and excellence in everything your business needs.",
+    "image": "/img/arch/slid/o-2.jpg"
+  }
+]

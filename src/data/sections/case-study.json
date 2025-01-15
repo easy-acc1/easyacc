@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/img/arch/slid/s-1.jpg",
+    "title": "A Decade of Excellence",
+    "date": "Since 2013"
+  },
+  {
+    "id": 2,
+    "image": "/img/arch/slid/s-3.jpg",
+    "title": "1,000+ Clients Served",
+    "date": "2024 Milestone"
+  },
+  {
+    "id": 3,
+    "image": "/img/arch/slid/s-2.jpg",
+    "title": "Expanding Horizons",
+    "date": "Future Goals"
+  }
+]
