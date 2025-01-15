@@ -12,18 +12,30 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Vie</title>
-        <link rel="icon" href="/img/favicon.ico" />
+        <title>Easy Accounting</title>
+        <link rel="icon" href="/img/logo-light.png" />
       </Head>
       <Cursor />
       <LoadingScreen />
       <Component {...pageProps} />
       <ScrollToTop />
-      <Script id="pace" strategy="beforeInteractive" src="/js/pace.min.js"></Script>
+      <Script
+        id="pace"
+        strategy="beforeInteractive"
+        src="/js/pace.min.js"
+      ></Script>
       <Script id="wow" src="/js/wow.min.js"></Script>
-      <Script strategy="beforeInteractive" id="splitting" src="/js/splitting.min.js"></Script>
+      <Script
+        strategy="beforeInteractive"
+        id="splitting"
+        src="/js/splitting.min.js"
+      ></Script>
       <Script id="simpleParallax" src="/js/simpleParallax.min.js"></Script>
-      <Script id="isotope" strategy="beforeInteractive" src="/js/isotope.pkgd.min.js"></Script>
+      <Script
+        id="isotope"
+        strategy="beforeInteractive"
+        src="/js/isotope.pkgd.min.js"
+      ></Script>
       <Script id="wowInit" strategy="lazyOnload" src="/js/wowInit.js"></Script>
     </>
   );

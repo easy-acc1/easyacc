@@ -15,14 +15,14 @@ class MyDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="keywords"
-            content="HTML5 Template Vie onepage themeforest"
+            content="Accounting Fiannce, Business, Company, Corporate, Startup, Tax, Trading"
           />
           <meta
             name="description"
-            content="Vie - Onepage Multi-Purpose HTML5 Template"
+            content="EassyAcc - Premium Financial Services"
           />
           <meta name="author" content="" />
-          <link rel="shortcut icon" href="/img/favicon.ico" />
+          <link rel="shortcut icon" href="/img/logo-light.png" />
           <link
             href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
             rel="stylesheet"

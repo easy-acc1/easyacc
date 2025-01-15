@@ -4762,7 +4762,7 @@ span:hover {
   font-weight: 700;
   margin-bottom: 10px;
   color: transparent;
-  -webkit-text-stroke: 1px #1f8fc8;
+  -webkit-text-stroke: 1px #152950;
 }
 
 .serv-arch .item h5 {
@@ -5206,7 +5206,7 @@ span:hover {
 }
 
 .po-arch .filtering span.active {
-  color: #1f8fc8;
+  color: #152950;
 }
 
 .po-arch .filtering span:after {

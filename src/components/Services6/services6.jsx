@@ -8,7 +8,7 @@ const Services6 = () => {
         <div className="row justify-content-center">
           <div
             className="col-lg col-md-6 item bg-img"
-            style={{ backgroundImage: "url(/img/arch/s2.jpg)" }}
+            style={{ backgroundImage: "url(/img/arch/a-1.jpg)" }}
           >
             <h6 className="numb">01</h6>
             <h5>Initial Consultation</h5>
@@ -23,7 +23,7 @@ const Services6 = () => {
 
           <div
             className="col-lg col-md-6 item bg-img"
-            style={{ backgroundImage: "url(/img/arch/s1.jpg)" }}
+            style={{ backgroundImage: "url(/img/arch/a-2.jpg)" }}
           >
             <h6 className="numb">02</h6>
             <h5>Planning & Strategy</h5>
@@ -38,7 +38,7 @@ const Services6 = () => {
 
           <div
             className="col-lg col-md-6 item bg-img"
-            style={{ backgroundImage: "url(/img/arch/s3.jpg)" }}
+            style={{ backgroundImage: "url(/img/arch/a-1.jpg)" }}
           >
             <h6 className="numb">03</h6>
             <h5>System Implementation</h5>
@@ -53,7 +53,7 @@ const Services6 = () => {
 
           <div
             className="col-lg col-md-6 item bg-img"
-            style={{ backgroundImage: "url(/img/arch/s4.jpg)" }}
+            style={{ backgroundImage: "url(/img/arch/a-2.jpg)" }}
           >
             <h6 className="numb">04</h6>
             <h5>Performance Analysis</h5>
@@ -68,7 +68,7 @@ const Services6 = () => {
 
           <div
             className="col-lg col-md-6 item bg-img"
-            style={{ backgroundImage: "url(/img/arch/s5.jpg)" }}
+            style={{ backgroundImage: "url(/img/arch/a-1.jpg)" }}
           >
             <h6 className="numb">05</h6>
             <h5>Sustainable Growth</h5>
